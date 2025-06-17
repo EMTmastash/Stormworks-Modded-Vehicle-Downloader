@@ -14,7 +14,7 @@ When its uploaded copy the RAW link and paste it into the second field.
 Press the big button.
 
 Once the app is done doing it's thing, you can refresh your workshop list ingame and check the creation. It should now be the vehicle that was pasted on github gist.
-_________________________________________________________________________________-
+__________________________________________________________________________________
 
 
 
