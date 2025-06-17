@@ -16,5 +16,5 @@ Press the big button.
 Once the app is done doing it's thing, you can refresh your workshop list ingame and check the creation. It should now be the vehicle that was pasted on github gist.
 _________________________________________________________________________________-
 
-*This app was made using AI*
+
 
