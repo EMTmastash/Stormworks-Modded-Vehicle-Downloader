@@ -1,5 +1,5 @@
 # StormworksModdedVehicleDownloader
-A python app to download modded stormworks vehicles since you cant do that on the workshop.
+A python app to download modded stormworks vehicles since you cant do that on the workshop. Uses github gist to fetch the vehicle.xml and overwrite it to the dummy workshop item.
 
 ## How to use?
 
